@@ -1,0 +1,25 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading{
+    width: 100%;
+    font-size: 35px;
+}
+
+.instruct{
+    float: right;
+    border: 2px solid lightgreen;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    color: red;
+    background-color: darkblue;
+    position: sticky;
+    bottom: 0;
+    line-height: 2;
+}
